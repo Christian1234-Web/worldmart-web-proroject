@@ -1,0 +1,25 @@
+* {
+    margin-top: 0;
+    padding: 0;
+}
+
+.slide-1,
+.slide-2,
+.slide-3,
+.slide-4,
+.slide-5 {
+    display: block;
+    position: absolute;
+    right: 30px;
+}
+
+.drop-box {
+    width: 400px;
+    position: absolute;
+    left: 100px;
+    /* bottom: 220px; */
+    top: 20%;
+    color: #000;
+    background-color: #fff;
+    height: 400px;
+}
